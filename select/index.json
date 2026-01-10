@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星をめざして",
+  "base_artist": "芹沢あさひ (CV.田中有紀)",
+  "createdAt": "2026-01-10T05:58:56.665072Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星をめざして",
+      "artist": "芹沢あさひ(田中有紀)",
+      "has_synced": false,
+      "path": "select/pl_01_星をめざして_芹沢あさひ(田中有紀).txt"
+    }
+  ]
+}
